@@ -22,5 +22,8 @@ int main()
     cout<<"\nSu edad: "<<edad;
     cout<<"\nSu direccion: "<<direccion;
 
+    cout<<"\n Finalizacion "<<direccion;
+
     return 0;
+
 }
